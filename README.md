@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shikha Sharma</h1>
 <h3 align="center">
-  Proficient Data Analyst, currently exploring the world of Software Development and Digital Marketing.<br>
+  Proficient Data Analyst, currently exploring the world of Data and Digital Marketing.<br>
   A curious personality often attracted to new technologies, with good communication skills and analytical power.
 </h3>
 
