@@ -30,7 +30,7 @@
   <a href="https://shikha-sharma-data-scien-8o366db.gamma.site/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://linkedin.com/in/shikhadsi" target="_blank">
+  <a href="https://linkedin.com/in/shikhads" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
